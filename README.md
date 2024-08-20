@@ -82,8 +82,7 @@ When the two images are booted up, you can proceed.
 ### Use the Code
 1. Run the desired script
    ```bash
-   python run_copilot.py
-   python run_polarion.py
+   python main.py
    ```
 2. Enjoy the ride!
 
